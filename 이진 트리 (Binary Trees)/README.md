@@ -99,7 +99,7 @@ class BinaryTree:
     - (2) Left subtree
     - (3) Right subtree
     
-### 전위 순회 (Pre-order Traversal)
+### 후위 순회 (Post-order Traversal)
 - 순회의 순서:
     - (1) Left subtree
     - (2) Right subtree
